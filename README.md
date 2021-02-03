@@ -17,3 +17,4 @@ The Texas Department of Justice has published a dataset (mixed dataset with both
 The Data was acquired through a web scraper that scraped all profiles on the webpage outlined above. Many of the profiles were in a scanned format (scanned papers) and could not be read by the scraper; these data points were tagged through a feature named "is_scanned".
 
 ## View the project nbviewer
+https://nbviewer.jupyter.org/github/Kayaae/Death-Row-Project/blob/master/Deathrow.ipynb
